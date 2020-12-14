@@ -8012,3 +8012,17 @@ hr {
     margin-left: 0;
   }
 }
+
+.preloader {
+  width: 100%;
+  height: 100%;
+  background-image: url("./assets/main_studiobag_1024x1024_2x.webp");
+}
+
+.show {
+  display: block !important;
+}
+
+.hide {
+  visibility: none !important;
+}
